@@ -1,6 +1,6 @@
 declare -x AIRFLOW_HOME="/usr/local/airflow"
 declare -x AIRFLOW__CORE__EXECUTOR="LocalExecutor"
-declare -x AIRFLOW__CORE__FERNET_KEY="6eD3JzF_R_0a1ezbVDDbbQVuraeY4HMPvbFF8EA-71w="
+declare -x AIRFLOW__CORE__FERNET_KEY="jpXfFSYcoqotwd1-7oSTBy0r628u8yOetaNGJZmc51A="
 declare -x AIRFLOW__CORE__LOAD_EXAMPLES="False"
 declare -x AIRFLOW__CORE__SQL_ALCHEMY_CONN="postgresql+psycopg2://airflow:airflow@postgres:5432/airflow"
 declare -- BASH="/usr/bin/bash"
@@ -21,7 +21,7 @@ declare -a FUNCNAME='([0]="main")'
 declare -a GROUPS='()'
 declare -i HISTCMD
 declare -x HOME="/usr/local/airflow"
-declare -x HOSTNAME="7f461282df48"
+declare -x HOSTNAME="52a3ca6ce566"
 declare -- HOSTTYPE="x86_64"
 declare -- IFS=" 	
 "
